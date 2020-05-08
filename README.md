@@ -27,8 +27,8 @@
 
 ## Chứng chỉ
 
-- Khóa Green tại Big-O coding
-- Data Analyst tại FPT Polytechnic
+- [Khóa Green tại Big-O coding](http://bigocoding.com/khoa-hoc-dang-mo-green/)
+- [Data Analyst tại FPT Polytechnic](https://caodang.fpt.edu.vn/tin-noi-bat/30-gio-khai-pha-du-lieu-cung-fpt-polytechnic.html)
 
 ## Dự án
 
