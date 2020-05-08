@@ -21,8 +21,8 @@
 - Làm việc được với Git và Linux
 - Tiếng Anh:
   - Nghe: Trung bình
-  - Nói : Trung bình
-  - Đọc : Khá
+  - Nói: Trung bình
+  - Đọc: Khá
   - Viết: Trung bình
 
 ## Chứng chỉ
