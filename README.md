@@ -42,5 +42,5 @@
 
 ### [Giải thuật tại các cuộc thi lập trình](https://github.com/toan207/Competitive-Programming)
 - Giải thuật sử dụng ngôn ngữ Python, C++
-### Crawl Data Shopee
+### Crawl Shopee Product Infomation Data 
 - Chương trình Crawl dữ liệu thông tin sản phẩm của shopee bằng Python tốc độ trung bình khoảng 8000 sản phẩm/ 10p
