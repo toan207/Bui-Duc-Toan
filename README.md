@@ -46,3 +46,5 @@
 - Chương trình Crawl dữ liệu thông tin sản phẩm của shopee bằng Python tốc độ trung bình khoảng 8000 sản phẩm/ 10p
 ### Quản trị viên nhóm Thang Long University - Algorithm
 - Tham gia soạn bài, giảng dạy, hỗ trợ giảng dạy và quản lý thành viên trong nhóm thuật toán của đại học Thăng Long
+### Trợ giảng đại học Thăng Long
+- Tham gia hỗ trợ giảng dạy cùng giảng viên môn ngôn ngữ lập trình(C++), lập trình hướng đối tượng(C++)
