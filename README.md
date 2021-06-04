@@ -6,10 +6,10 @@
 - Email: buiductoan207@gmail.com
 - SĐT: 0888283335
 - CMT: 001099009599
->Thông tin tài khoản ngân hàng:
->TECHCOMBANK
->STK: 19035505299018
->Chủ tài khoản: Bui Duc Toan
+>Thông tin tài khoản ngân hàng:  
+>TECHCOMBANK  
+>STK: 19035505299018  
+>Chủ tài khoản: Bui Duc Toan  
 ## Học vấn
 
 - Sinh viên năm 3 tại đại học Thăng Long, chuyên ngành Khoa học máy tính
