@@ -4,8 +4,12 @@
 - Ngày sinh: 20/07/1999
 - Nơi ở: Hà Nội
 - Email: buiductoan207@gmail.com
-- SĐT: 0839423795
-
+- SĐT: 0888283335
+- CMT: 001099009599
+>Thông tin tài khoản ngân hàng:
+>TECHCOMBANK
+>STK: 19035505299018
+>Chủ tài khoản: Bui Duc Toan
 ## Học vấn
 
 - Sinh viên năm 3 tại đại học Thăng Long, chuyên ngành Khoa học máy tính
@@ -28,6 +32,10 @@
 ## Chứng chỉ
 
 - [Khóa Green tại Big-O coding](http://bigocoding.com/khoa-hoc-dang-mo-green/)
+- [Khóa Blue tại Big-O coding](https://bigocoding.com/khoa-hoc-dang-mo/khoa-hoc-blue/)
+- [Khóa Orange tại Big-O coding](https://bigocoding.com/khoa-hoc-dang-mo/khoa-hoc-orange/)
+- [Khóa Competitive Programming Level 1 tại Big-O coding](https://bigocoding.com/khoa-hoc-dang-mo/khoa-hoc-cp/)
+- [Khóa Competitive Programming Level 2 tại Big-O coding](https://bigocoding.com/khoa-hoc-dang-mo/khoa-hoc-cp/)
 - [Data Analyst tại FPT Polytechnic](https://caodang.fpt.edu.vn/tin-noi-bat/30-gio-khai-pha-du-lieu-cung-fpt-polytechnic.html)
 
 ## Dự án
