@@ -12,7 +12,7 @@
 >Chủ tài khoản: Bui Duc Toan  
 ## Học vấn
 
-- Sinh viên năm 3 tại đại học Thăng Long, chuyên ngành Khoa học máy tính
+- Sinh viên năm 4 tại đại học Thăng Long, chuyên ngành Khoa học máy tính
 
 ## Thành tích
 
