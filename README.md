@@ -30,7 +30,7 @@
 - [Khóa Green tại Big-O coding](http://bigocoding.com/khoa-hoc-dang-mo-green/)
 ![Green Certificate](https://github.com/toan207/Bui-Duc-Toan/blob/master/Certificate/g14_03-1.jpg)
 - [Khóa Blue tại Big-O coding](https://bigocoding.com/khoa-hoc-dang-mo/khoa-hoc-blue/)
-![Blue Certificate](https://github.com/toan207/Bui-Duc-Toan/blob/master/Certificate/BDToan_cert.pdf)
+![Blue Certificate](/toan207/Bui-Duc-Toan/blob/master/Certificate/BDToan_cert.pdf)
 - [Khóa Orange tại Big-O coding](https://bigocoding.com/khoa-hoc-dang-mo/khoa-hoc-orange/)
 ![Orange Certificate](https://github.com/toan207/Bui-Duc-Toan/blob/master/Certificate/O05-17.pdf)
 - [Khóa Competitive Programming Level 1 tại Big-O coding](https://bigocoding.com/khoa-hoc-dang-mo/khoa-hoc-cp/)
