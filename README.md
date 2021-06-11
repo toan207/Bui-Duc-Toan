@@ -28,17 +28,12 @@
 ## Chứng chỉ
 
 - [Khóa Green tại Big-O coding](http://bigocoding.com/khoa-hoc-dang-mo-green/)
-![Green Certificate](https://github.com/toan207/Bui-Duc-Toan/blob/master/Certificate/g14_03-1.jpg)
 - [Khóa Blue tại Big-O coding](https://bigocoding.com/khoa-hoc-dang-mo/khoa-hoc-blue/)
-![Blue Certificate](https://github.com/toan207/Bui-Duc-Toan/blob/master/Certificate/BDToan_cert.pdf)
 - [Khóa Orange tại Big-O coding](https://bigocoding.com/khoa-hoc-dang-mo/khoa-hoc-orange/)
-![Orange Certificate](https://github.com/toan207/Bui-Duc-Toan/blob/master/Certificate/O05-17.pdf)
 - [Khóa Competitive Programming Level 1 tại Big-O coding](https://bigocoding.com/khoa-hoc-dang-mo/khoa-hoc-cp/)
-![CP1 Certificate](https://github.com/toan207/Bui-Duc-Toan/blob/master/Certificate/00400109.pdf)
 - [Khóa Competitive Programming Level 2 tại Big-O coding](https://bigocoding.com/khoa-hoc-dang-mo/khoa-hoc-cp/)
-![CP2 Certificate](https://github.com/toan207/Bui-Duc-Toan/blob/master/Certificate/00500104.pdf)
 - [Data Analyst tại FPT Polytechnic](https://caodang.fpt.edu.vn/tin-noi-bat/30-gio-khai-pha-du-lieu-cung-fpt-polytechnic.html)
-
+>[Certificate](https://github.com/toan207/Bui-Duc-Toan/tree/master/Certificate)
 ## Dự án
 
 ### [Giải thuật tại các cuộc thi lập trình](https://github.com/toan207/Competitive-Programming)
