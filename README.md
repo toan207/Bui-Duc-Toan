@@ -8,7 +8,7 @@
 
 ## Học vấn
 
-- Sinh viên năm 4 tại đại học Thăng Long, chuyên ngành Khoa học máy tính
+- Sinh viên năm cuối tại đại học Thăng Long, chuyên ngành Khoa học máy tính
 
 ## Thành tích
 
