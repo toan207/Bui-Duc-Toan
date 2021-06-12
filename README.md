@@ -44,3 +44,5 @@
 - Tham gia soạn bài, giảng dạy, hỗ trợ giảng dạy và quản lý thành viên trong nhóm thuật toán của đại học Thăng Long
 ### Trợ giảng tại đại học Thăng Long
 - Tham gia hỗ trợ giảng dạy cùng giảng viên môn ngôn ngữ lập trình(C++), lập trình hướng đối tượng(C++)
+### Phân tán dữ liệu trên SQL Server
+- Phân tán dữ liệu qua nhiều site có sử dụng thuật toán phân mảnh dọc BEA.
