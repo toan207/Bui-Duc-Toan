@@ -17,7 +17,7 @@
 ## Kỹ năng
 
 - Nắm chắc các cấu trúc dữ liệu cơ bản ở Python và C++
-- Thường xuyên dùng Python để giải thuật
+- Thường xuyên dùng Python và C++ để giải thuật
 - Làm việc được với Git và Linux
 - Tiếng Anh:
   - Nghe: Trung bình
