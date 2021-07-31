@@ -19,11 +19,7 @@
 - Nắm chắc các cấu trúc dữ liệu cơ bản ở Python và C++
 - Thường xuyên dùng Python và C++ để giải thuật
 - Làm việc được với Git và Linux
-- Tiếng Anh:
-  - Nghe: Trung bình
-  - Nói: Trung bình
-  - Đọc: Khá
-  - Viết: Trung bình
+- Đọc và làm việc được với tài liệu tiếng Anh.
 
 ## Chứng chỉ
 
