@@ -1,7 +1,7 @@
 ## Thông tin chung
 
 - Họ tên: Bùi Đức Toàn
-- Ngày sinh: 20/07/1998
+- Ngày sinh: 20/07/1999
 - Nơi ở: Hà Nội
 - Email: buiductoan207@gmail.com
 - SĐT: 0888283335
