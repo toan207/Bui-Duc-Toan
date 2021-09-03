@@ -13,6 +13,7 @@
 ## Thành tích
 
 - Giải khuyến khích Olympic tin học loại chuyên tin năm 2019
+- [Học viên xuất sắc nhất của khóa Data Science FPT Polytechnic](https://caodang.fpt.edu.vn/tin-noi-bat/30h-hoc-ly-thu-ve-phan-tich-du-lieu-tai-fpt-polytechnic.html?fbclid=IwAR2VNf-pzV6yC2C0wGKA2RgAlq9KpT1is0uxq5oQjP-0S2M8XgyN5vAqOMY)
 
 ## Kỹ năng
 
