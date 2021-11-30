@@ -4,7 +4,7 @@
 - Ngày sinh: 20/07/1999
 - Nơi ở: Hà Nội
 - Email: buiductoan207@gmail.com
-- SĐT: 0888283335
+- SĐT: 0839423795
 
 ## Học vấn
 
